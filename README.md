@@ -6,3 +6,5 @@ An individual can:
 - add a new campsite
 - comment on any posts
 - delete one of his/her older posts and/or comments
+
+Made as a part of Colt Steeles' web development boot camp
